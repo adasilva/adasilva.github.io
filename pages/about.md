@@ -5,12 +5,12 @@ coverimage: cover.jpg
 permalink: /about/
 ---
 
-![Picture of Ashley]({{ site.url }}/images/portrait.jpg){:style="float: left;margin-right: 10px;margin-bottom: 15px;max-width: 200px"}
+![Picture of Ashley]({{ site.imgurl }}/portrait.jpg){:style="float: left;margin-right: 10px;margin-bottom: 15px;max-width: 200px"}
 I am a physicist, programmer, and consultant with expertise in condensed matter physics, scientific programming in python, data analysis and machine learning, diversity in science, and scientific communication and outreach.
 
 I am available for new consulting projects, both technical and education-related. My technical expertise includes nanotechnology, graphene, electronic and optical properties, computational modeling, data analysis, and machine learning. In my previous work, I have developed excellent skills in communication of technical subject matter to both technical and non-technical audiences, as well as experience in planning, organizing, and executing complex projects.
 
-Samples of my physics research can be found on my [research page]({{site.url}}/research). Some other technical projects can be found on my [github page](http://www.github.com/adasilva) Information about other projects that I have worked on will be available soon.
+Samples of my physics research can be found on my [research page]({{ 'research' | relative_url }}). Some other technical projects can be found on my [github page](http://www.github.com/adasilva) Information about other projects that I have worked on will be available soon.
 
 
 ## Education and awards
