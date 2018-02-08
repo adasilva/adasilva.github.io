@@ -1,12 +1,12 @@
-- title: Modeling graphene on boron nitride
-  summary: Graphene is a two-dimensional material made of carbon. Boron nitride has a similar structure to graphene, but is different enough to cause changes in the electronic properties of a graphene layer which is placed on top of it.
+- title: Scientific research
+  summary: I have 15 scientific publications with over 500 citations since 2013.
   featured-img: moireunitcell
   url: research
-- title: Teaching kids about forces
-  summary: Knowledge about forces is fundamental to understanding physics. I helped develop a module about forces to deliver to primary school teachers.
+- title: Science communication
+  summary: I have experience communicating science to technical and non-technical audiences.
   featured-img: teacher_workshop
-  url: /
+  url: outreach
 - title: Diversity in STEM
-  summary: I have actively worked to promote diversity in physics and technology through work in grass-roots groups, national committees, and professional organizations.
+  summary: I have worked to promote diversity in physics and technology both locally and worldwide.
   featured-img: cuwip_group
   url: diversity
