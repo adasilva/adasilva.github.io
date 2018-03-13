@@ -1,3 +1,4 @@
+
 title: Ashley M. DaSilva # your site title
 author: Ashley M. DaSilva
 email: ashley.dasilva.527@gmail.com # email for form submission, you also have to change it in _js/scripts.js
@@ -5,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Ashley loves science, technology, hiking, snorkeling, and homemade pizza.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://ashleydasilva.com" # the base hostname & protocol for your site, e.g. http://example.com
-imgurl: "http://ashleydasilva.com/images"
+imgurl: "http://ashleydasilva.com/assets/img/posts/"
 
 twitter_username: adasilvaphd # replace with your_twitter_username or comment to remove link from footer
 github_username:  adasilva # replace with your_github_username or comment to remove link from footer
